@@ -1,0 +1,5 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(rfm.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  mfc.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+c:\users\jarvan\source\repos\rfm\rfm\mfc.cpp(68): error C2440: “初始化”: 无法从“const wchar_t [5]”转换为“wchar_t *”
+  c:\users\jarvan\source\repos\rfm\rfm\mfc.cpp(68): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
