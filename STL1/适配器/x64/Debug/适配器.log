@@ -1,0 +1,16 @@
+﻿  源.cpp
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(473): error C2039: “first_argument_type”: 不是“std::pointer_to_unary_function<int,void,void (__cdecl *)(int)>”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(518): note: 参见“std::pointer_to_unary_function<int,void,void (__cdecl *)(int)>”的声明
+  c:\users\jarvan\source\repos\stl1\适配器\源.cpp(75): note: 参见对正在编译的 类 模板 实例化 "std::binder2nd<std::pointer_to_unary_function<int,void,void (__cdecl *)(int)>>" 的引用
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(473): error C2146: 语法错误: 缺少“>”(在标识符“first_argument_type”的前面)
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(477): error C2039: “first_argument_type”: 不是“std::pointer_to_unary_function<int,void,void (__cdecl *)(int)>”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(518): note: 参见“std::pointer_to_unary_function<int,void,void (__cdecl *)(int)>”的声明
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(477): error C2146: 语法错误: 缺少“>”(在标识符“first_argument_type”的前面)
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(483): error C2039: “second_argument_type”: 不是“std::pointer_to_unary_function<int,void,void (__cdecl *)(int)>”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(518): note: 参见“std::pointer_to_unary_function<int,void,void (__cdecl *)(int)>”的声明
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(482): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(483): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(500): error C2039: “second_argument_type”: 不是“std::pointer_to_unary_function<int,void,void (__cdecl *)(int)>”的成员
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(518): note: 参见“std::pointer_to_unary_function<int,void,void (__cdecl *)(int)>”的声明
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(500): error C3646: “value”: 未知重写说明符
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\functional(500): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int

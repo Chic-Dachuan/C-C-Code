@@ -1,0 +1,5 @@
+﻿  String.cpp
+c:\users\jarvan\source\repos\stl1\stl1\string.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jarvan\source\repos\stl1\stl1\string.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jarvan\source\repos\stl1\stl1\string.cpp(136): warning C4018: “<”: 有符号/无符号不匹配
+  String.vcxproj -> C:\Users\Jarvan\source\repos\STL1\Debug\String.exe
